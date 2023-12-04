@@ -1,7 +1,7 @@
 console.log('hola chicos')
 
 
-//Clone=>Modify Code=> Add Stagin=> Create Commit
+//Clone=>Modify Code=> Add Stagin=> Create Commit => Push
 
 
 
